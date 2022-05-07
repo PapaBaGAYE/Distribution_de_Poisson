@@ -1,6 +1,5 @@
-# Distributio_de_Poisson
+# Distribution_de_Poisson
 
----
     E(X) = lambda_
     Var(X) = lambda_
     fonction de densité : P(X=k) = lambda_ ** x * exp(- lambda_)) / factorial(x)
