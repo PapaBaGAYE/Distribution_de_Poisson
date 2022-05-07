@@ -14,4 +14,5 @@
          - Var(X) : Variance de la variable aléatoire X
          - densité : problabilité de X = k
          - repartition : problabilité de X <= k
+         - proba : les problabilités
 ---
